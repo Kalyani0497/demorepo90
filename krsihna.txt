@@ -1,0 +1,7 @@
+this is new file
+I am using this for logs
+:wq!
+
+this is new file
+I use it to store logs
+
